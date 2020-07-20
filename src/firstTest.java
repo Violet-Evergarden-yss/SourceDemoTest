@@ -5,5 +5,8 @@ public class firstTest {
 		System.out.println("First to GitHub");
 
 	}
+	public static int add(int a, int b){
+		return a + b;		
+	{
 
 }
